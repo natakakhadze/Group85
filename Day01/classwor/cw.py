@@ -1,0 +1,13 @@
+#N1
+surname="kakhadze"
+print(surname)
+#N2
+Mather="Tiko"
+Father="Achi"
+print(Mather)
+print(Father)
+#N3
+name="Nata"
+age=15
+print(name)
+print(age)
