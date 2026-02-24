@@ -1,0 +1,13 @@
+p{
+    border-style: dashed;
+    border-color: rgb(128, 75, 0);
+    border-width: 10px;
+}
+img{
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    border-width: 20px;
+}
+button{
+    border: 20px solid orange;
+}

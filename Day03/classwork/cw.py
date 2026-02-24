@@ -1,0 +1,22 @@
+# name=input("enter your name: ")
+# print("Hello " + name)
+
+# Age=int(input("enter your age"))
+# print("age: " , Age)
+
+# Color=input("enter your favorite color: ")
+# Animal=input("enter your faboorite animal: ")
+# Number=int(input("enter your favorite numer: "))
+# print("Color", Color)
+# print("animal", Animal)
+# print("number", Number)
+
+product1=input("enter product: ")
+product2=input("enter product: ")
+product3=input("enter product: ")
+product4=input("enter product: ")
+print("List: ")
+print("1.", product1)
+print("2.", product2)
+print("3.", product3)
+print("4.", product4)
